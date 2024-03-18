@@ -67,19 +67,19 @@ If a doctor needs to prescribe any tests for any patient, he will enter the same
 
 7.Reports:                                                                                                              
 
-         Reports are generated from the HMS for senior management to have a clear understanding on the hospital’s revenue, expenses, bed occupancy, and other details. 
+Reports are generated from the HMS for senior management to have a clear understanding on the hospital’s revenue, expenses, bed occupancy, and other details. 
 
 8.Staff Management:                                                                                                                                     
 
-        It stores the names and timings of the nurses and ward boys on duty with their respective ward numbers. 
+It stores the names and timings of the nurses and ward boys on duty with their respective ward numbers. 
 
 9.Instructions for patients:
 
-        All the instructions given by the doctors for the nurse to follow for each patient are entered in the system. While conducting patient care the nurse just looks up the system to understand which medicine or what line of treatment, they need to give the patients. 
+All the instructions given by the doctors for the nurse to follow for each patient are entered in the system. While conducting patient care the nurse just looks up the system to understand which medicine or what line of treatment, they need to give the patients. 
 
 10.Insurance:
 
-         In case of patients that have insurance, all the insurance details are to be stored in the system for claim processing. 
+In case of patients that have insurance, all the insurance details are to be stored in the system for claim processing. 
 
 11.Management would like the following reports:
 
